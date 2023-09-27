@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class LeapYear {
 	public static void main(String[] args) {
-
+       
+		// This the program to check it is a leap year or not
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the year to check it is leap year or not");
 
