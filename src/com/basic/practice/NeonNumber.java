@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class NeonNumber {
 	public static void main(String[] args) {
+		// Neon Number :- When the sum of digit of a square of te number is equal to the number 
+		// 9*9=81, 8+1=9 so 9=8+1=9
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Enter a no to check whether it is neon no or not :");
